@@ -1,0 +1,7 @@
+C:\Users\ilymi\source\repos\geometrijskoTijeloKlase\geometrijskoTijeloKlase\bin\Debug\geometrijskoTijeloKlase.exe.config
+C:\Users\ilymi\source\repos\geometrijskoTijeloKlase\geometrijskoTijeloKlase\bin\Debug\geometrijskoTijeloKlase.exe
+C:\Users\ilymi\source\repos\geometrijskoTijeloKlase\geometrijskoTijeloKlase\bin\Debug\geometrijskoTijeloKlase.pdb
+C:\Users\ilymi\source\repos\geometrijskoTijeloKlase\geometrijskoTijeloKlase\obj\Debug\geometrijskoTijeloKlase.csprojAssemblyReference.cache
+C:\Users\ilymi\source\repos\geometrijskoTijeloKlase\geometrijskoTijeloKlase\obj\Debug\geometrijskoTijeloKlase.csproj.CoreCompileInputs.cache
+C:\Users\ilymi\source\repos\geometrijskoTijeloKlase\geometrijskoTijeloKlase\obj\Debug\geometrijskoTijeloKlase.exe
+C:\Users\ilymi\source\repos\geometrijskoTijeloKlase\geometrijskoTijeloKlase\obj\Debug\geometrijskoTijeloKlase.pdb
